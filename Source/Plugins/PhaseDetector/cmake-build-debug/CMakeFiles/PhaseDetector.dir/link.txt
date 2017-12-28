@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PhaseDetector.dir/OpenEphysLib.cpp.o CMakeFiles/PhaseDetector.dir/PhaseDetector.cpp.o CMakeFiles/PhaseDetector.dir/PhaseDetectorEditor.cpp.o  -o PhaseDetector 
